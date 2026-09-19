@@ -4,10 +4,17 @@
     <title>Clean Architecture &amp; Domain Driven Design Hub</title>
     <link>https://clean-architecture-ddd-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 18 Sep 2026 06:19:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 06:05:05 GMT</lastBuildDate>
     <atom:link href="https://clean-architecture-ddd-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                <item>
+                    <item>
+      <title>📅 Today's Fresh Pick: r/webdev Builders Hub (Reddit)</title>
+      <link>https://www.reddit.com/r/webdev/</link>
+      <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-reddit-20260919-1-2026-09-19</guid>
+      <pubDate>Sat, 19 Sep 2026 06:05:05 GMT</pubDate>
+      <description>Newly verified community added to Clean Architecture &amp; Domain Driven Design Hub: A community dedicated to all things web development, client and server-side architectures, and UI/UX design.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/cpp High Performance Systems (Reddit)</title>
       <link>https://www.reddit.com/r/cpp/</link>
       <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-reddit-20260918-1-2026-09-18</guid>
