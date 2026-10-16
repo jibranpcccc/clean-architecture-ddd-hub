@@ -4,10 +4,17 @@
     <title>Clean Architecture &amp; Domain Driven Design Hub</title>
     <link>https://clean-architecture-ddd-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 06:05:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:05:34 GMT</lastBuildDate>
     <atom:link href="https://clean-architecture-ddd-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: TechCrunch Official Channel (Telegram)</title>
+      <link>https://t.me/techcrunch</link>
+      <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-telegram-20261016-1-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 06:05:34 GMT</pubDate>
+      <description>Newly verified community added to Clean Architecture &amp; Domain Driven Design Hub: Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Technology &amp; Science Discord (Discord)</title>
       <link>https://discord.gg/tech</link>
       <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-discord-20261015-1-2026-10-15</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-reddit-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 10:49:19 GMT</pubDate>
       <description>Newly verified community added to Clean Architecture &amp; Domain Driven Design Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
-    </item>
-<item>
-      <title>Clean Architecture &amp; Domain Driven Design Hub Initial Release</title>
-      <link>https://clean-architecture-ddd-hub.netlify.app/</link>
-      <pubDate>Sun, 13 Sep 2026 11:32:28 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
