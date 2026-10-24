@@ -4,10 +4,17 @@
     <title>Clean Architecture &amp; Domain Driven Design Hub</title>
     <link>https://clean-architecture-ddd-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 23 Oct 2026 06:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:05:31 GMT</lastBuildDate>
     <atom:link href="https://clean-architecture-ddd-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                    <item>
+                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-forum-20261017-1-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 06:05:31 GMT</pubDate>
+      <description>Newly verified community added to Clean Architecture &amp; Domain Driven Design Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-forum-20261017-1-2026-10-23</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-github-20260924-1-2026-09-24</guid>
       <pubDate>Thu, 24 Sep 2026 06:05:05 GMT</pubDate>
       <description>Newly verified community added to Clean Architecture &amp; Domain Driven Design Hub: Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Tailwind CSS Discord (Discord)</title>
-      <link>https://discord.gg/tailwind</link>
-      <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-discord-20260923-1-2026-09-23</guid>
-      <pubDate>Wed, 23 Sep 2026 06:05:10 GMT</pubDate>
-      <description>Newly verified community added to Clean Architecture &amp; Domain Driven Design Hub: Official community for Tailwind CSS utility-first design, component architectures, and responsive layout styling.</description>
     </item>
   </channel>
 </rss>
