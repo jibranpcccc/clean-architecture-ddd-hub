@@ -4,10 +4,17 @@
     <title>Clean Architecture &amp; Domain Driven Design Hub</title>
     <link>https://clean-architecture-ddd-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 06:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:05:33 GMT</lastBuildDate>
     <atom:link href="https://clean-architecture-ddd-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                    <item>
+                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-forum-20261017-1-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 06:05:33 GMT</pubDate>
+      <description>Newly verified community added to Clean Architecture &amp; Domain Driven Design Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-forum-20261017-1-2026-11-02</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-discord-20261005-1-2026-10-05</guid>
       <pubDate>Mon, 05 Oct 2026 06:05:48 GMT</pubDate>
       <description>Newly verified community added to Clean Architecture &amp; Domain Driven Design Hub: Dedicated server for cloud-native infrastructure engineers building, deploying, and scaling on Kubernetes.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/aws Cloud Architects (Reddit)</title>
-      <link>https://www.reddit.com/r/aws/</link>
-      <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-reddit-20261003-1-2026-10-03</guid>
-      <pubDate>Sat, 03 Oct 2026 06:29:46 GMT</pubDate>
-      <description>Newly verified community added to Clean Architecture &amp; Domain Driven Design Hub: Community of AWS certified solutions architects and engineers discussing ECS, Lambda, IAM, and cost optimization.</description>
     </item>
   </channel>
 </rss>
