@@ -4,10 +4,17 @@
     <title>Clean Architecture &amp; Domain Driven Design Hub</title>
     <link>https://clean-architecture-ddd-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 10 Nov 2026 06:06:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:05:27 GMT</lastBuildDate>
     <atom:link href="https://clean-architecture-ddd-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                            <item>
+                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-forum-20261017-1-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 06:05:27 GMT</pubDate>
+      <description>Newly verified community added to Clean Architecture &amp; Domain Driven Design Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-forum-20261017-1-2026-11-10</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-reddit-20261013-1-2026-10-13</guid>
       <pubDate>Tue, 13 Oct 2026 06:05:35 GMT</pubDate>
       <description>Newly verified community added to Clean Architecture &amp; Domain Driven Design Hub: All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
-      <link>https://www.reddit.com/r/science/</link>
-      <guid isPermaLink="false">https://clean-architecture-ddd-hub.netlify.app/#clean-architecture-ddd-hub-reddit-20261011-1-2026-10-11</guid>
-      <pubDate>Sun, 11 Oct 2026 06:05:27 GMT</pubDate>
-      <description>Newly verified community added to Clean Architecture &amp; Domain Driven Design Hub: Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.</description>
     </item>
   </channel>
 </rss>
